@@ -1,0 +1,14 @@
+Em JavaScript não precisamos declarar o tipo de uma variavel. A própria linguagem identifica
+que tipo de variavel foi declarada.No caso de string basta declarar a variavel entre " ".
+Para declarar uma variavel em JavaScript basta usarmos a sintaxe:
+var nomevariavel ;
+Podemos atribuir um valor para essa variavel assim:
+var a = 2; (O js identifica que é um numero automaticamente)
+var b = "2"; (O js identifica que é uma string automaticamente)
+var c = true; (O js identifica que é um booleano automaticamente)
+
+Tambem temos constantes que são valores que não podem ser alterados no código. O valor recebido
+não poderá ser sobrescrito.
+const Pi = 3,14;
+
+Temos o comando "typeof" que retorna o tipo de variavel que foi declarada.
