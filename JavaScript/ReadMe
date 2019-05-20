@@ -1,0 +1,36 @@
+Algoritmos diversos em JavaScript
+ 
+                   História
+ Essa linguagem na verdade atualmente se chama EcmaScript.
+ Foi criada em 1995 por Brendan Eich para uso no navegador NetScape.
+ Seu codinome era Mocha, depois ganhou o nome LiveScript.
+ Quando a NetScape fez parceria com a Sun (Criadora do Java)
+usaram o nome JavaScript por questão de marketing. Porém as
+duas linguagens nunca tiveram nenhum tipo de relação.
+ O JavaScript é uma linguagem interpretada por qualquer navegador
+atual, o que dispensa qualquer kit de desenvolvimento para trabalhar
+com a ela. È uma linguagem orientada a objetos.
+ É usada em conjunto com o HTML e o CSS em paginas web, podendo também
+ser usada no backend através do NodeJS.
+ 
+ 
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||     ||||||||              ||||||||
+||||||||||||||||||||||||||||     |||||     ||||||||       |||||
+||||||||||||||||||||||||||||     |||      |||||||||||      ||||
+||||||||||||||||||||||||||||     |||    |||||||||||||||||||||||
+||||||||||||||||||||||||||||     |||        |||||||||||||||||||
+||||||||||||||||||||||||||||     |||||||          |||||||||||||
+||||||||||||||||||||||||||||     |||||||||||||         ||||||||
+||||||||||||||||||||||||||||     ||||||||||||||||||       |||||
+||||||||||||||||||||||||||||     ||||||||||||||||||       |||||
+||||||||||||||     |||||||    |||||      |||||||||      |||||||
+|||||||||||||||||          ||||||||||               |||||||||||         
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
