@@ -24,7 +24,7 @@ class Tipos_dados
 
      
 
-    //Vamos ebibir todas variaveis
+    //Vamos exibir todas variaveis
     Console.WriteLine(x);
     Console.WriteLine(a);
     Console.WriteLine(b);
