@@ -1,0 +1,8 @@
+Os operadores aritméticos em JavaScript são:
++ soma
+- subtração
+* multiplicação
+/ divisão
+% módulo (resto de divisão)
+++ pós ou pré incremento
+-- pós ou pré decremento.
