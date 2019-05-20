@@ -1,0 +1,8 @@
+Como escrever mensagens na tela usando JavaScript.
+É necessario integrar um documento js com um html para que o programa funcione.
+Para integrar o JavaScript com um documento html usamos a tag <script> tudo que
+estiver dentro dessa tag será JavaScript. Caso quisermos um documento js separado
+basta referenciar o caminho do mesmo no documento html com a tag 
+<script type="text/javascript" src="nomedoarquivo.js">
+Assim como varias outras linguagens em JavaScript as linhas de comando terminam com ;
+OBS: Não confundir JavaScript com Java, são duas linguagens completamente diferentes.
