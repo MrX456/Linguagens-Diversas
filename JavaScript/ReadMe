@@ -9,7 +9,7 @@ usaram o nome JavaScript por questão de marketing. Porém as
 duas linguagens nunca tiveram nenhum tipo de relação.
  O JavaScript é uma linguagem interpretada por qualquer navegador
 atual, o que dispensa qualquer kit de desenvolvimento para trabalhar
-com a ela. È uma linguagem orientada a objetos.
+com a ela. Suporta o paradigma orientado a objetos.
  É usada em conjunto com o HTML e o CSS em paginas web, podendo também
 ser usada no backend através do NodeJS.
  
