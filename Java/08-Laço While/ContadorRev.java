@@ -8,7 +8,7 @@ class ContadorRev {
             System.out.println(contador);
             contador--;
         }
-        // Quando atingir valor especificado(10) o laço se encerra
+        // Quando atingir valor especificado(0) o laço se encerra
 
         System.out.println("Contagem finalizada!");
     }
