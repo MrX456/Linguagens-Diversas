@@ -27,7 +27,7 @@ public class Arquivo2 {
             FileWriter escrever = new FileWriter(arquivo_var);
 
             escrever.write("Voce digitou " + x);
-            // Qubrar linha
+            // Quebrar linha
             escrever.write(System.getProperty("line.separator"));
             escrever.write("Voce digitou " + y);
 
