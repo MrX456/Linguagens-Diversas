@@ -23,7 +23,7 @@ int main()
     bool leitura = false;
     bool jogar = true;
 
-    //Variavel de cadeia de caractere(armazena palavras, frases, texto)
+    //Cadeia de caracteres(armazena palavras, frases, texto). String é uma classe.
     string palavra = "palavra";
 
     //exibindo variaveis
