@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    //Laços são estruturas de repetição que fiacm repetindo um bloco de instruções
+    //Laços são estruturas de repetição que ficam repetindo um bloco de instruções
     //enquanto uma determinada condição for verdadeira
 
     int contador = 0;
