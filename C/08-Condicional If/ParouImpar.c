@@ -12,7 +12,7 @@ int main(void)
     if(!(x % 2 == 0)) {
         printf("O numero %d e impar",x);
     }
-    //Se possui este bloc sera executado
+    //Se possui este bloco sera executado
     else {
         printf("O numero %d e par",x);
     }
