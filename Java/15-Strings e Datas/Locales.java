@@ -36,7 +36,7 @@ class Locales {
 
         // Agora vamos verificar a formatação de moeda de alguns lugares
 
-        // Locale padão(agora Brasil)
+        // Locale padrão(agora Brasil)
         System.out.println("Brasil");
         NumberFormat nf = NumberFormat.getCurrencyInstance();
         System.out.println(nf.format(500000000d));
