@@ -11,7 +11,7 @@ int main(void)
     printf("Quantos alunos possui a turma ? ");
     scanf("%d",&total);
 
-    //Receber as notas ate contador chegar ao numero de alunos passadoa
+    //Receber as notas ate contador chegar ao numero de alunos passados
     while(cont <= total) {
         printf("Nota do aluno %d \n",cont);
         scanf("%f",&nota);
