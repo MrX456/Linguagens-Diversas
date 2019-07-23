@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    //Este alçgoritmo soma quantos valores o usuario quiser
+    //Este algoritmo soma quantos valores o usuario quiser
     int n;
     int soma = 0;
     char resp;
