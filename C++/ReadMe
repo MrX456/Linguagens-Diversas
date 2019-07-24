@@ -7,7 +7,7 @@ surgiu para melhorar uma versão do nucleo de um sistema Unix.
 C. Tem total compatibilidade com sua sintaxe e comandos dando a
 opção de se programar em baixo nivel também.
  A grande novidade foi trazer o paradigma de orientação a objetos
-que ha pouco havia sido desenvolvido.
+que ha pouco havia sido criado.
   Diversos softwares são programados em C++ como jogos, banco de 
  dados MySql, Mozilla Firefox, Photoshop, Windows, entre outros.
 
