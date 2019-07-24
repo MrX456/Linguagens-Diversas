@@ -14,7 +14,7 @@ int main()
 {
     int result;
 
-    //Ao chamar função cridada devemos passar os dois números a serem somados, como teremos
+    //Ao chamar função criada devemos passar os dois números a serem somados, como teremos
     //um retorno podemos armazená-lo em uma variavel para exibir depois
 
     result = soma(3, 8);
