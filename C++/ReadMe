@@ -1,4 +1,15 @@
-Algoritmos diversos em C++.
+Algoritmos diversos em C.
   
                        História
+ A linguagem C++ foi criada por Bjarne Stroustrup em 1985 e
+surgiu para melhorar uma versão do nucleo de um sistema Unix.
+ O C++ é uma linguagem de nivel médio e a evolução da linguagem 
+C. Tem total compatibilidade com sua sintaxe e comandos dando a
+opção de se programar em baixo nivel também.
+ A grande novidade foi trazer o paradigma de orientação a objetos
+que ha pouco havia sido desenvolvido.
+  Diversos softwares são programados em C++ como jogos, banco de 
+ dados MySql, Mozilla Firefox, Photoshop, Windows, entre outros.
+
+
   
