@@ -1,3 +1,13 @@
  Algoritmos diversos em C.
   
                        História
+ A linguagem C foi criada em 1972 por Dennis Ritchie que trabalhava
+no Bell Labs.
+ O propósito de sua criação foi inicialmente desenvolver sistemas
+operacionais e compiladores, pelo fato de ser uma linguagem de baixo
+nivel(está bem próxima do hardware).
+ A linguagem C está muito presente até os dias de hoje sendo empregada
+principalmente no desenvolvimento sistemas operacionais como Windows,
+Mac, Android, entre outros. Também esta presente em sistemas Linux, 
+sendo inclusive empregada na construção de seu nucleo por Linus Torvalds.
+ Muitas linguagens modernas tiveram sua sintaxe baseadas na linguagem C.
