@@ -20,7 +20,7 @@ print('===========================')
 print("{0}<{1} ou {2}<{3} = {4}".format(x, y, y, z, (x < y) or (y < z))) #v ou v = v
 print("{0}>{1} ou {2}<{3} = {4}".format(x, y, y, z, (x > y) or (y < z))) #f ou v = v
 print("{0}<={1} ou {2}>={3} = {4}".format(x, y, y, z, (x <= y) or (y >= z))) #v ou f = v
-print("{0}=={1} ou {2}>={3} = {4}".format(x, y, y, z, (x == y) or (y >= z))) #f e f = f
+print("{0}=={1} ou {2}>={3} = {4}".format(x, y, y, z, (x == y) or (y >= z))) #f ou f = f
 
 print('===========================')
 
