@@ -8,6 +8,7 @@
     $nome = "Maria";  //String
     $num = "21";  //String
     $leitura = true;  //Booleano
+    $sair = false;
 
     //Exibindo variáveis
     //Toda vez que variaveis forem chamadas devem conter $
@@ -20,4 +21,7 @@
     echo $num;
     echo'<br/>';
     echo $leitura;//Em php booleanos são retornados como 1 = true e false não retorna nada
+    echo '<br/>';
+    echo $sair;
+    
 ?>

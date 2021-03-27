@@ -2,12 +2,13 @@
 
 //Para escrver mensagens na tela com php usamos comando echo
 
-echo'Olá Mundo';
+echo'Ola Mundo!';
+//Também funciona com echo("Olá Mundo!");
 
-//Quebrar linha.
+//Quebrar linha usamos uma tag html(Tags só funcionam se estiverem dentro de um comando echo()).
 echo'<br/>';
 
 //Mensagens também podem ser escritas através do comando print
-print'Olá Mundo!';
+print("Ola Mundo!");
 
 ?>
